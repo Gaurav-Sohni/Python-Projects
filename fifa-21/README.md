@@ -12,3 +12,6 @@ Visualizations:
 3. Pointplot
 4. Boxenplot
 5. Scatter plot
+
+
+Note : the last 2 plots are Not Rendering. Please, consider opening in nbviewer.
