@@ -1,5 +1,7 @@
 FIFA 2021 
 
+Data Visualisation project using Matplotlib.pyplot, Seaborn and Plotly modules.
+
 EDA :
 1. Handling Null values
 2. Data Cleansing 
